@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @harrison-thomas
-- 👀 I’m interested in nuclear engineering, finance, power lifting.
-- 🌱 I’m currently learning python, excel, financial literacy, modelling.
-- 📫 How to reach me:
+# Harrison Thomas
+
+Chemical Engineering student at the University of Leeds.
+
+Interested in nuclear engineering, energy, quantitative modelling and finance.
+
+## Currently
+
+- Studying Chemical Engineering at the University of Leeds
+- Learning Python and financial modelling
+
+## Projects
+
+Projects will be added here as they are completed
+
+## How to reach me:
       GitHub (harrison-thomas)
       LinkedIn (www.linkedin.com/in/hthomas-engineering)
 
