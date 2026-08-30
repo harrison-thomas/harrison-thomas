@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @hartho123
-- 👀 I’m interested in coding, boxing, 
-- 🌱 I’m currently learning python, and a small amount of HTML/CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: GitHub (hartho123)
+- 👋 Hi, I’m @harrison-thomas
+- 👀 I’m interested in nuclear engineering, finance, power lifting.
+- 🌱 I’m currently learning python, excel, financial literacy, modelling.
+- 📫 How to reach me:
+      GitHub (harrison-thomas)
+      LinkedIn (www.linkedin.com/in/hthomas-engineering)
+
+
 
 <!---
 hartho123/hartho123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
