@@ -2,12 +2,12 @@
 
 Chemical Engineering student at the University of Leeds.
 
-Interested in nuclear engineering, energy, quantitative modelling and finance.
+Interested in nuclear engineering, energy, and finance.
 
 ## Currently
 
 - Studying Chemical Engineering at the University of Leeds
-- Learning Python and financial modelling
+- Learning MATLAB, Python and Excel
 
 ## Projects
 
